@@ -1,1 +1,1 @@
-web: python shodup/manage.py runserver 
+web: python databases/manage.py runserver 
