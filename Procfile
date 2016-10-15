@@ -1,1 +1,1 @@
-web: python databases/manage.py runserver 
+web: gunicorn shodup.wsgi
